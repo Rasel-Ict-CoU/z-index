@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+#div1{
+    height:200px ;
+    background-color:#4E008E ;
+}
+.personal-information1{
+    float:right;
+    padding:50px;
+}   
+.personal-information2{
+    float:right;
+} 
+#div2{
+    height:200px ;
+    background-color :red ;
+    width: 80%;
+    margin: auto;
+    z-index: 1;
+    position:relative;
+    margin-top:-20px ;
+    margin-bottom: -20px;
+}
+#div3{
+    height:200px ;
+    background-color:#4E008E ;
+    z-index: 2;
+    position: relative;
+}
